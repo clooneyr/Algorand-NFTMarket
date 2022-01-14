@@ -12,5 +12,4 @@ Code base for a NFT marketplace on Algorand, the provided smart contract & escro
 <center><b> ------ </b></center>
 
 <center><b> Vilijan </b></center>
-<center> Marketplace Tutorial Writer </center>
-<center> <a href="https://github.com/Vilijan/NFTMarketplace"> </a> </center>
+<center> Marketplace Tutorial Writer [repo.](https://github.com/Vilijan/NFTMarketplace)  </center>
