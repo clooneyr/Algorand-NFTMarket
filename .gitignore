@@ -1,0 +1,6 @@
+# ignore node_modules
+node_modules
+#ignore sandbox
+sandbox
+#ignore accounts list
+Accounts.txt

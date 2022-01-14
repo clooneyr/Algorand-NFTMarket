@@ -1,0 +1,35 @@
+#pragma version 5
+global GroupSize
+int 3
+==
+assert
+gtxn 0 ApplicationID
+int 58139207
+==
+assert
+gtxn 1 TypeEnum
+int pay
+==
+assert
+gtxn 2 AssetAmount
+int 1
+==
+assert
+gtxn 2 XferAsset
+int 58139072
+==
+assert
+gtxn 2 Fee
+int 1000
+<=
+assert
+gtxn 2 AssetCloseTo
+global ZeroAddress
+==
+assert
+gtxn 2 RekeyTo
+global ZeroAddress
+==
+assert
+int 1
+return

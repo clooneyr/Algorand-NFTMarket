@@ -1,0 +1,18 @@
+{
+    "title": "DAN NFT",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "DAN ANDREWS"
+        },
+        "description": {
+            "type": "string",
+            "description": "Dan the man"
+        },
+        "image": {
+            "type": "string",
+            "description": "https://gateway.pinata.cloud/ipfs/QmesXr6w7Yar6ubDBmvf9SVLnoovjaB6UJQQNK8unrXfu7?preview=1"
+        }
+    }
+}
