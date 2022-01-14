@@ -6,3 +6,11 @@ Code base for a NFT marketplace on Algorand, the provided smart contract & escro
 - Smart contract: written in <b>Python</b>.
 - Network Interactions: written in [JS AlgoSDK](https://algorand.github.io/js-algorand-sdk/).
 
+---
+
+<center> Credit </center>
+<center><b> ------ </b></center>
+
+<center><b> Vilijan </b></center>
+<center> Marketplace Tutorial Writer </center>
+<center> <a href="https://github.com/Vilijan/NFTMarketplace"> </a> </center>
